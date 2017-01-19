@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+High School Computer Science Teacher
